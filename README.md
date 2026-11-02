@@ -79,6 +79,6 @@ This is a simple starting logic. Sensor placement, motor direction, track width,
 After correct wiring and calibration, the robot should follow a black path on a light surface. The image `output_demo.png` is only an explanatory illustration; replace it with your own actual robot testing photos for the final college report.
 
 ## 10. Author details
-Student Name: ____________________  
-Roll No.: ____________________  
-Batch: ____________________
+Student Name: kuber narute  
+Roll No.: RA2332  
+Batch: C2
